@@ -7,6 +7,11 @@
     <itunes:author>王博辉</itunes:author>
     <itunes:summary>一个关于匿名账号、算法共谋、情绪传播和信仰崩塌的真实故事。2025年B站现象级博主「牢A」深度解剖。60集播客系列，AI声音克隆技术制作。</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary"/>
+    </itunes:category>
     <itunes:image href="https://raw.githubusercontent.com/DEMON987654321/laoa/main/cover.jpg" />
     <itunes:owner>
       <itunes:name>王博辉</itunes:name>
@@ -18,6 +23,7 @@
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第1季「匿名者的崛起」第1集：一个匿名账号和一台旧电脑</description>
       <itunes:duration>110</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -30,6 +36,7 @@
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第1季「匿名者的崛起」第2集：90万播放量的凌晨三点</description>
       <itunes:duration>372</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -42,6 +49,7 @@
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第1季「匿名者的崛起」第3集：牢字是我的保护色</description>
       <itunes:duration>340</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -54,6 +62,7 @@
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第1季「匿名者的崛起」第4集：335万人的电子爹</description>
       <itunes:duration>156</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -66,6 +75,7 @@
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第1季「匿名者的崛起」第5集：峰哥决定开战</description>
       <itunes:duration>97</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -78,6 +88,7 @@
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第1季「匿名者的崛起」第6集：瑞秋打开摄像头</description>
       <itunes:duration>242</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -90,6 +101,7 @@
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第1季「匿名者的崛起」第7集：牢A和他的克隆军团</description>
       <itunes:duration>306</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -102,6 +114,7 @@
       <itunes:episode>8</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第2季「算法的共谋」第8集：520直播马拉松</description>
       <itunes:duration>282</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -114,6 +127,7 @@
       <itunes:episode>9</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第2季「算法的共谋」第9集：第一次翻车</description>
       <itunes:duration>297</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -126,6 +140,7 @@
       <itunes:episode>10</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第2季「算法的共谋」第10集：消失的72小时</description>
       <itunes:duration>313</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -138,6 +153,7 @@
       <itunes:episode>11</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第2季「算法的共谋」第11集：美国斩杀线</description>
       <itunes:duration>57</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -150,6 +166,7 @@
       <itunes:episode>12</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第2季「算法的共谋」第12集：新罗马的黄昏</description>
       <itunes:duration>102</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -162,6 +179,7 @@
       <itunes:episode>13</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第2季「算法的共谋」第13集：爱泼斯坦的小岛，牢A的大餐</description>
       <itunes:duration>52</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -174,6 +192,7 @@
       <itunes:episode>14</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第2季「算法的共谋」第14集：女留学生们决定反击</description>
       <itunes:duration>244</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -186,6 +205,7 @@
       <itunes:episode>15</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第3季「系统设计」第15集：峰哥的82分钟——完整还原</description>
       <itunes:duration>78</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -198,6 +218,7 @@
       <itunes:episode>16</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第3季「系统设计」第16集：罗翔没有回应</description>
       <itunes:duration>67</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -210,6 +231,7 @@
       <itunes:episode>17</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第3季「系统设计」第17集：西雅图的胖子发来一封邮件</description>
       <itunes:duration>43</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -222,6 +244,7 @@
       <itunes:episode>18</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第3季「系统设计」第18集：赢学的困境</description>
       <itunes:duration>34</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -234,6 +257,7 @@
       <itunes:episode>19</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第3季「系统设计」第19集：卢本伟说了一句话</description>
       <itunes:duration>68</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -246,6 +270,7 @@
       <itunes:episode>20</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第3季「系统设计」第20集：直播间里的保健品阴谋</description>
       <itunes:duration>51</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -258,6 +283,7 @@
       <itunes:episode>21</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第3季「系统设计」第21集：第一个被攻击的人</description>
       <itunes:duration>139</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -270,6 +296,7 @@
       <itunes:episode>22</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第4季「信仰的裂痕」第22集：退网的创作者们</description>
       <itunes:duration>192</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -282,6 +309,7 @@
       <itunes:episode>23</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第4季「信仰的裂痕」第23集：那些私信</description>
       <itunes:duration>136</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -294,6 +322,7 @@
       <itunes:episode>24</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第4季「信仰的裂痕」第24集：心理医生的账单</description>
       <itunes:duration>170</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -306,6 +335,7 @@
       <itunes:episode>25</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第4季「信仰的裂痕」第25集：谁的责任？</description>
       <itunes:duration>206</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -318,6 +348,7 @@
       <itunes:episode>26</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第4季「信仰的裂痕」第26集：牢A赚了多少钱？</description>
       <itunes:duration>166</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -330,6 +361,7 @@
       <itunes:episode>27</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第4季「信仰的裂痕」第27集：模仿者的崛起</description>
       <itunes:duration>66</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -342,6 +374,7 @@
       <itunes:episode>28</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第4季「信仰的裂痕」第28集：算法的同谋</description>
       <itunes:duration>173</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -354,6 +387,7 @@
       <itunes:episode>29</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第5季「反噬」第29集：观众心理学</description>
       <itunes:duration>186</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -366,6 +400,7 @@
       <itunes:episode>30</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第5季「反噬」第30集：我们是最后一代</description>
       <itunes:duration>183</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -378,6 +413,7 @@
       <itunes:episode>31</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第5季「反噬」第31集：那些醒过来的人</description>
       <itunes:duration>267</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -390,6 +426,7 @@
       <itunes:episode>32</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第5季「反噬」第32集：事实核查者的战争</description>
       <itunes:duration>258</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -402,6 +439,7 @@
       <itunes:episode>33</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第5季「反噬」第33集：平台该做什么？</description>
       <itunes:duration>216</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -414,6 +452,7 @@
       <itunes:episode>34</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第5季「反噬」第34集：AI时代的谎言</description>
       <itunes:duration>234</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -426,6 +465,7 @@
       <itunes:episode>35</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第5季「反噬」第35集：一个人的战争</description>
       <itunes:duration>235</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -438,6 +478,7 @@
       <itunes:episode>36</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第6季「真相」第36集：牢A消失的那一周</description>
       <itunes:duration>146</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -450,6 +491,7 @@
       <itunes:episode>37</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第6季「真相」第37集：评论区考古学</description>
       <itunes:duration>110</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -462,6 +504,7 @@
       <itunes:episode>38</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第6季「真相」第38集：一个数据记者的两年追踪</description>
       <itunes:duration>87</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -474,6 +517,7 @@
       <itunes:episode>39</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第6季「真相」第39集：他走后</description>
       <itunes:duration>59</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -486,6 +530,7 @@
       <itunes:episode>40</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第6季「真相」第40集：给牢A的一封信</description>
       <itunes:duration>123</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -498,6 +543,7 @@
       <itunes:episode>41</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第6季「真相」第41集：印度的牢A</description>
       <itunes:duration>95</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -510,6 +556,7 @@
       <itunes:episode>42</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第6季「真相」第42集：如果你是他</description>
       <itunes:duration>149</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -522,6 +569,7 @@
       <itunes:episode>43</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第7季「审判日」第43集：平台的黄昏</description>
       <itunes:duration>32</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -534,6 +582,7 @@
       <itunes:episode>44</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第7季「审判日」第44集：孩子和算法</description>
       <itunes:duration>57</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -546,6 +595,7 @@
       <itunes:episode>45</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第7季「审判日」第45集：牢A之后</description>
       <itunes:duration>54</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -558,6 +608,7 @@
       <itunes:episode>46</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第7季「审判日」第46集：媒体素养是一门课</description>
       <itunes:duration>31</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -570,6 +621,7 @@
       <itunes:episode>47</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第7季「审判日」第47集：播客作为一种反抗</description>
       <itunes:duration>105</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -582,6 +634,7 @@
       <itunes:episode>48</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第7季「审判日」第48集：重建本地信任</description>
       <itunes:duration>35</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -594,6 +647,7 @@
       <itunes:episode>49</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第7季「审判日」第49集：开源的真相</description>
       <itunes:duration>33</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -606,6 +660,7 @@
       <itunes:episode>50</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第8季「长夜将明」第50集：你的播客</description>
       <itunes:duration>83</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -618,6 +673,7 @@
       <itunes:episode>51</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第8季「长夜将明」第51集：牢A的评论区已经开始自己吵架了</description>
       <itunes:duration>46</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -630,6 +686,7 @@
       <itunes:episode>52</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第8季「长夜将明」第52集：那封没发出去的回复</description>
       <itunes:duration>51</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -642,6 +699,7 @@
       <itunes:episode>53</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第8季「长夜将明」第53集：中文互联网的下一代内容</description>
       <itunes:duration>127</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -654,6 +712,7 @@
       <itunes:episode>54</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第8季「长夜将明」第54集：瑞秋的后续</description>
       <itunes:duration>54</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -666,6 +725,7 @@
       <itunes:episode>55</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第8季「长夜将明」第55集：50集之后</description>
       <itunes:duration>43</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -678,6 +738,7 @@
       <itunes:episode>56</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第8季「长夜将明」第56集：你的注意力值多少钱</description>
       <itunes:duration>111</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -690,6 +751,7 @@
       <itunes:episode>57</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第8季「长夜将明」第57集：言论自由的边界</description>
       <itunes:duration>73</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -702,6 +764,7 @@
       <itunes:episode>58</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第8季「长夜将明」第58集：什么是最好的反驳</description>
       <itunes:duration>41</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -714,6 +777,7 @@
       <itunes:episode>59</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第8季「长夜将明」第59集：为什么我还在做</description>
       <itunes:duration>46</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
@@ -726,6 +790,7 @@
       <itunes:episode>60</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
       <description>第8季「长夜将明」第60集：最后一句话</description>
       <itunes:duration>52</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:52:26 -0000</pubDate>
