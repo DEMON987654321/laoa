@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Test Podcast</title>
+    <link>https://demon987654321.github.io/laoa</link>
+    <description>Test</description>
+    <language>en</language>
+    <itunes:author>Test</itunes:author>
+    <itunes:summary>Test podcast</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://raw.githubusercontent.com/DEMON987654321/laoa/main/cover.jpg"/>
+    <itunes:owner>
+      <itunes:name>Test</itunes:name>
+      <itunes:email>test@test.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Test Episode</title>
+      <itunes:title>Test Episode</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Test</description>
+      <itunes:duration>60</itunes:duration>
+      <pubDate>Mon, 27 Jul 2026 05:52:25 -0000</pubDate>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S01E01.mp3" length="970773" type="audio/mpeg"/>
+      <guid>test-001</guid>
+    </item>
+  </channel>
+</rss>
