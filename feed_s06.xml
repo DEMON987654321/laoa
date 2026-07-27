@@ -1,0 +1,43 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>牢A启示录 S06：真相</title>
+    <link>https://demon987654321.github.io/laoa/season6</link>
+    <description>他到底是谁？调查、采访、数据分析，还原真相。</description>
+    <language>zh-cn</language>
+    <item>
+      <title>第36集：牢A消失的那一周</title>
+      <itunes:episode>36</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S06E36.mp3" length="1291941" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第37集：评论区考古学</title>
+      <itunes:episode>37</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S06E37.mp3" length="977277" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第38集：一个数据记者的两年追踪</title>
+      <itunes:episode>38</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S06E38.mp3" length="774501" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第39集：他走后</title>
+      <itunes:episode>39</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S06E39.mp3" length="526173" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第40集：给牢A的一封信</title>
+      <itunes:episode>40</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S06E40.mp3" length="1089381" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第41集：印度的牢A</title>
+      <itunes:episode>41</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S06E41.mp3" length="853581" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第42集：如果你是他</title>
+      <itunes:episode>42</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S06E42.mp3" length="1326549" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

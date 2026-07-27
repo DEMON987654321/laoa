@@ -1,0 +1,43 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>牢A启示录 S04：信仰的裂痕</title>
+    <link>https://demon987654321.github.io/laoa/season4</link>
+    <description>当评论区开始出现反对声音，铁粉团如何反应？记录第一批质疑者的故事。</description>
+    <language>zh-cn</language>
+    <item>
+      <title>第22集：退网的创作者们</title>
+      <itunes:episode>22</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S04E22.mp3" length="1732485" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第23集：那些私信</title>
+      <itunes:episode>23</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S04E23.mp3" length="1215813" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第24集：心理医生的账单</title>
+      <itunes:episode>24</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S04E24.mp3" length="1513653" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第25集：谁的责任？</title>
+      <itunes:episode>25</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S04E25.mp3" length="1847061" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第26集：牢A赚了多少钱？</title>
+      <itunes:episode>26</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S04E26.mp3" length="1483053" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第27集：模仿者的崛起</title>
+      <itunes:episode>27</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S04E27.mp3" length="608757" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第28集：算法的同谋</title>
+      <itunes:episode>28</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S04E28.mp3" length="1531629" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

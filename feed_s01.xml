@@ -1,0 +1,43 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>牢A启示录 S01：匿名者的崛起</title>
+    <link>https://demon987654321.github.io/laoa/season1</link>
+    <description>2025年，一个匿名账号在B站爆火。48小时播放量90万。他就是后来被335万年轻人称为「牢A」的斯奎奇大王。</description>
+    <language>zh-cn</language>
+    <item>
+      <title>第1集：一个匿名账号和一台旧电脑</title>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S01E01.mp3" length="970773" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第2集：90万播放量的凌晨三点</title>
+      <itunes:episode>2</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S01E02.mp3" length="3352533" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第3集：牢字是我的保护色</title>
+      <itunes:episode>3</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S01E03.mp3" length="3056253" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第4集：335万人的电子爹</title>
+      <itunes:episode>4</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S01E04.mp3" length="1400853" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第5集：峰哥决定开战</title>
+      <itunes:episode>5</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S01E05.mp3" length="871869" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第6集：瑞秋打开摄像头</title>
+      <itunes:episode>6</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S01E06.mp3" length="2154429" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第7集：牢A和他的克隆军团</title>
+      <itunes:episode>7</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S01E07.mp3" length="2721045" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

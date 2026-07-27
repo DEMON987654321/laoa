@@ -1,0 +1,43 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>牢A启示录 S02：算法的共谋</title>
+    <link>https://demon987654321.github.io/laoa/season2</link>
+    <description>深入算法黑箱，揭露推荐系统如何与牢A的内容形成完美共生关系。</description>
+    <language>zh-cn</language>
+    <item>
+      <title>第8集：520直播马拉松</title>
+      <itunes:episode>8</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S02E08.mp3" length="2533821" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第9集：第一次翻车</title>
+      <itunes:episode>9</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S02E09.mp3" length="2698293" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第10集：消失的72小时</title>
+      <itunes:episode>10</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S02E10.mp3" length="2781741" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第11集：美国斩杀线</title>
+      <itunes:episode>11</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S02E11.mp3" length="522933" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第12集：新罗马的黄昏</title>
+      <itunes:episode>12</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S02E12.mp3" length="916413" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第13集：爱泼斯坦的小岛，牢A的大餐</title>
+      <itunes:episode>13</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S02E13.mp3" length="461757" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第14集：女留学生们决定反击</title>
+      <itunes:episode>14</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S02E14.mp3" length="2183421" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

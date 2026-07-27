@@ -1,0 +1,43 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>牢A启示录 S03：系统设计</title>
+    <link>https://demon987654321.github.io/laoa/season3</link>
+    <description>拆解牢A代表作「美国的斩杀线」——48分钟，九幕结构，完美好莱坞叙事。</description>
+    <language>zh-cn</language>
+    <item>
+      <title>第15集：峰哥的82分钟——完整还原</title>
+      <itunes:episode>15</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S03E15.mp3" length="692133" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第16集：罗翔没有回应</title>
+      <itunes:episode>16</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S03E16.mp3" length="588669" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第17集：西雅图的胖子发来一封邮件</title>
+      <itunes:episode>17</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S03E17.mp3" length="384789" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第18集：赢学的困境</title>
+      <itunes:episode>18</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S03E18.mp3" length="299277" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第19集：卢本伟说了一句话</title>
+      <itunes:episode>19</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S03E19.mp3" length="596997" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第20集：直播间里的保健品阴谋</title>
+      <itunes:episode>20</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S03E20.mp3" length="463533" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第21集：第一个被攻击的人</title>
+      <itunes:episode>21</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S03E21.mp3" length="1249173" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

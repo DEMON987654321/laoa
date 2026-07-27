@@ -1,0 +1,43 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>牢A启示录 S07：审判日</title>
+    <link>https://demon987654321.github.io/laoa/season7</link>
+    <description>舆论反转、媒体追问、粉丝暴跌——一场迟到的清算。</description>
+    <language>zh-cn</language>
+    <item>
+      <title>第43集：平台的黄昏</title>
+      <itunes:episode>43</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S07E43.mp3" length="298245" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第44集：孩子和算法</title>
+      <itunes:episode>44</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S07E44.mp3" length="518397" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第45集：牢A之后</title>
+      <itunes:episode>45</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S07E45.mp3" length="476013" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第46集：媒体素养是一门课</title>
+      <itunes:episode>46</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S07E46.mp3" length="278829" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第47集：播客作为一种反抗</title>
+      <itunes:episode>47</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S07E47.mp3" length="938517" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第48集：重建本地信任</title>
+      <itunes:episode>48</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S07E48.mp3" length="305877" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第49集：开源的真相</title>
+      <itunes:episode>49</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S07E49.mp3" length="293061" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

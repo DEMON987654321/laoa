@@ -1,0 +1,63 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>牢A启示录 S08：长夜将明</title>
+    <link>https://demon987654321.github.io/laoa/season8</link>
+    <description>你的注意力值多少钱？335万粉丝×40分钟×52周——被偷走多少生命？</description>
+    <language>zh-cn</language>
+    <item>
+      <title>第50集：你的播客</title>
+      <itunes:episode>50</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S08E50.mp3" length="746925" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第51集：牢A的评论区已经开始自己吵架了</title>
+      <itunes:episode>51</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S08E51.mp3" length="406029" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第52集：那封没发出去的回复</title>
+      <itunes:episode>52</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S08E52.mp3" length="460413" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第53集：中文互联网的下一代内容</title>
+      <itunes:episode>53</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S08E53.mp3" length="1147821" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第54集：瑞秋的后续</title>
+      <itunes:episode>54</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S08E54.mp3" length="478053" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第55集：50集之后</title>
+      <itunes:episode>55</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S08E55.mp3" length="384117" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第56集：你的注意力值多少钱</title>
+      <itunes:episode>56</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S08E56.mp3" length="1001781" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第57集：言论自由的边界</title>
+      <itunes:episode>57</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S08E57.mp3" length="661149" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第58集：什么是最好的反驳</title>
+      <itunes:episode>58</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S08E58.mp3" length="373365" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第59集：为什么我还在做</title>
+      <itunes:episode>59</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S08E59.mp3" length="411765" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第60集：最后一句话</title>
+      <itunes:episode>60</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S08E60.mp3" length="478629" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

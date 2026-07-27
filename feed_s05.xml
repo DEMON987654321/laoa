@@ -1,0 +1,43 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>牢A启示录 S05：反噬</title>
+    <link>https://demon987654321.github.io/laoa/season5</link>
+    <description>当谎言被拆穿，当信徒反思，当一个内容帝国的根基动摇。</description>
+    <language>zh-cn</language>
+    <item>
+      <title>第29集：观众心理学</title>
+      <itunes:episode>29</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S05E29.mp3" length="1673829" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第30集：我们是最后一代</title>
+      <itunes:episode>30</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S05E30.mp3" length="1636245" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第31集：那些醒过来的人</title>
+      <itunes:episode>31</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S05E31.mp3" length="2389461" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第32集：事实核查者的战争</title>
+      <itunes:episode>32</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S05E32.mp3" length="2311821" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第33集：平台该做什么？</title>
+      <itunes:episode>33</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S05E33.mp3" length="1925493" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第34集：AI时代的谎言</title>
+      <itunes:episode>34</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S05E34.mp3" length="2108397" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>第35集：一个人的战争</title>
+      <itunes:episode>35</itunes:episode>
+      <enclosure url="https://demon987654321.github.io/laoa/episodes/S05E35.mp3" length="2124909" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
